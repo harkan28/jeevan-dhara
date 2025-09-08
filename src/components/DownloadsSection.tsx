@@ -11,7 +11,7 @@ const DownloadsSection = () => {
   const downloads = [
     {
       title: 'Download APK',
-      description: 'Get the latest version of Nagari Saath mobile app for Android devices',
+      description: 'Get the latest version of Jeevan Dhara mobile app for Android devices',
       icon: Download,
       color: 'from-green-500 to-emerald-500',
       link: '#',
@@ -31,7 +31,7 @@ const DownloadsSection = () => {
     },
     {
       title: 'YouTube Demo Video',
-      description: 'Watch live demonstration of Nagari Saath features and capabilities',
+      description: 'Watch live demonstration of Jeevan Dhara features and capabilities',
       icon: Video,
       color: 'from-red-500 to-pink-500',
       link: '#',
@@ -130,7 +130,7 @@ const DownloadsSection = () => {
               Need Support or Have Questions?
             </h3>
             <p className="text-xl mb-8 text-white/90 font-roboto">
-              Our team is here to help you get started with Nagari Saath
+              Our team is here to help you get started with Jeevan Dhara
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

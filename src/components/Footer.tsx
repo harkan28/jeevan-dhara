@@ -46,8 +46,8 @@ const Footer = () => {
               transition={{ duration: 0.6 }}
               viewport={{ once: true }}
             >
-              <h3 className="text-3xl font-bold font-poppins text-gradient mb-4">
-                Nagari Saath
+                            <h3 className="text-lg font-semibold mb-4 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+                Jeevan Dhara
               </h3>
               <p className="text-gray-300 text-lg mb-6 font-roboto leading-relaxed">
                 Smart Early Warning System for Water-Borne Diseases in Rural Northeast India. 
@@ -191,7 +191,7 @@ const Footer = () => {
             className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0"
           >
             <div className="flex items-center space-x-2 text-gray-300 font-roboto">
-              <span>© 2025 Nagari Saath</span>
+              <span>© 2025 Jeevan Dhara</span>
               <span>•</span>
               <span>Built for Smart India Hackathon 2025</span>
             </div>

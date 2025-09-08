@@ -125,7 +125,7 @@ const TechnicalKnowledge = () => {
             Technical <span className="text-gradient">Knowledge Base</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto font-roboto">
-            Deep dive into the technology stack and architecture powering Nagari Saath
+            Deep dive into the technology stack and architecture powering Jeevan Dhara
           </p>
         </motion.div>
 

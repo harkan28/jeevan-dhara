@@ -1,4 +1,4 @@
-# Nagari Saath - Smart Water Health Monitor
+# Jeevan Dhara - Smart Water Health Monitor
 
 [![Smart India Hackathon 2025](https://img.shields.io/badge/SIH-2025-blue)](https://sih.gov.in/)
 [![Next.js](https://img.shields.io/badge/Next.js-15.5.2-black)](https://nextjs.org/)
@@ -6,7 +6,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38bdf8)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0-purple)](https://www.framer.com/motion/)
 
-A modern, animated portfolio website for **Nagari Saath** - Smart Early Warning System for Water-Borne Diseases in Rural Northeast India. Built for Smart India Hackathon 2025.
+A modern, animated portfolio website for **Jeevan Dhara** - Smart Early Warning System for Water-Borne Diseases in Rural Northeast India. Built for Smart India Hackathon 2025.
 
 ## 🌟 Features
 
@@ -34,7 +34,7 @@ A modern, animated portfolio website for **Nagari Saath** - Smart Early Warning 
 5. **Technical Knowledge**: Detailed architecture and implementation
 6. **Video Demo**: Live demonstration of the system
 7. **Downloads & Resources**: APK, documentation, and research materials
-8. **Team**: Meet the talented team behind Nagari Saath
+8. **Team**: Meet the talented team behind Jeevan Dhara
 9. **Footer**: Contact information and additional links
 
 ## 🎨 Design System
@@ -93,9 +93,9 @@ A modern, animated portfolio website for **Nagari Saath** - Smart Early Warning 
 - **Sammridhii Mishra** - Backend Developer
 - **Sakshi Sen** - Data Scientist
 
-## 🏆 About Nagari Saath
+## 🏆 About Jeevan Dhara
 
-Nagari Saath is an innovative healthcare surveillance system designed for rural Northeast India. The project combines:
+Jeevan Dhara is an innovative healthcare surveillance system designed for rural Northeast India. The project combines:
 
 - **AI-powered disease prediction** using Random Forest + LSTM models
 - **IoT water quality monitoring** with real-time sensor data
@@ -114,4 +114,4 @@ This project is part of Smart India Hackathon 2025 submission.
 
 ---
 
-**Built with ❤️ for rural healthcare by the Nagari Saath team**
+**Built with ❤️ for rural healthcare by the Jeevan Dhara team**

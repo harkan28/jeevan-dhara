@@ -108,7 +108,7 @@ const ProblemStatement = () => {
             
             <div className="space-y-4">
               <p className="text-gray-700 text-lg leading-relaxed font-roboto">
-                We built <strong className="text-blue-600">Nagari Saath</strong> — a smart health surveillance 
+                We built <strong className="text-blue-600">Jeevan Dhara</strong> — a smart health surveillance 
                 system that predicts outbreaks using AI, monitors water quality via IoT, and empowers ASHA workers 
                 with real-time alerts.
               </p>

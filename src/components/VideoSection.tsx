@@ -27,7 +27,7 @@ const VideoSection = () => {
             Live <span className="text-gradient">Demo</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto font-roboto">
-            See Nagari Saath in action and understand how our AI predicts disease outbreaks
+            See Jeevan Dhara in action and understand how our AI predicts disease outbreaks
           </p>
         </motion.div>
 
@@ -66,7 +66,7 @@ const VideoSection = () => {
               {/* Video Title Overlay */}
               <div className="absolute bottom-6 left-6 text-white">
                 <h3 className="text-2xl font-bold font-poppins mb-2">
-                  Nagari Saath: Live Demo
+                  Jeevan Dhara: Live Demo
                 </h3>
                 <p className="text-white/80 font-roboto">
                   Watch how our AI predicts cholera risk and sends SMS alerts to health officials

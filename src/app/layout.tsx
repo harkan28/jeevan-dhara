@@ -9,17 +9,13 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Nagari Saath - Smart Water Health Monitor",
-  description: "AI-Powered Early Warning System for Water-Borne Diseases in Rural Northeast India",
-  keywords: "water health monitoring, AI prediction, IoT sensors, disease prevention, smart india hackathon",
-  authors: [{ name: "Nagari Saath Team" }],
-  robots: "index, follow",
+  title: "Jeevan Dhara - Smart Water Health Monitor",
+  description: "Smart Early Warning System for Water-Borne Diseases in Rural Northeast India",
+  keywords: ["water health", "disease prevention", "rural healthcare", "AI surveillance", "IoT monitoring"],
+  authors: [{ name: "Jeevan Dhara Team" }],
+  creator: "Smart India Hackathon 2025 Team",
   openGraph: {
-    title: "Nagari Saath - Smart Water Health Monitor",
-    description: "AI-Powered Early Warning System for Water-Borne Diseases in Rural Northeast India",
-    type: "website",
-  },
-};
+    title: "Jeevan Dhara - Smart Water Health Monitor",
 
 export default function RootLayout({
   children,

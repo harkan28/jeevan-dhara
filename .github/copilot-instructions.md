@@ -1,7 +1,7 @@
 - [x] Verify that the copilot-instructions.md file in the .github directory is created.
 
 - [x] Clarify Project Requirements
-  Project: React portfolio website for Nagari Saath with animations and multiple pages
+  Project: React portfolio website for Jeevan Dhara with animations and multiple pages
 
 - [x] Scaffold the Project
   Created Next.js project with TypeScript, Tailwind CSS, and animation libraries
