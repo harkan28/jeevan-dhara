@@ -33,13 +33,6 @@ jobs:
       - name: Build
         run: npm run build
         
-      - name: Copy static files
-        run: |
-          mkdir -p out
-          cp -r .next/static out/
-          cp -r .next/server/app/* out/
-          cp -r public/* out/
-        
       - name: Setup Pages
         uses: actions/configure-pages@v4
         
