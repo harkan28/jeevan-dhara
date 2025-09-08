@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "name": "nagari-saath",
+  "builds": [
+    {
+      "src": "WEBSITE/package.json",
+      "use": "@vercel/next",
+      "config": {
+        "projectSettings": {
+          "framework": "nextjs"
+        }
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/WEBSITE/$1"
+    }
+  ]
+}
